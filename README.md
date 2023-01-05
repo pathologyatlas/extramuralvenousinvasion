@@ -22,18 +22,18 @@ source("./R/language.R")
 **Adenokarsinomda Ekstramural Venöz İnvazyon**
 
 
-[https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html](https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html)
+[https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html](https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html" style="height:400px;width:100%;"></iframe>
 
 
-[https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html](https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html)
+[https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html](https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html" style="height:400px;width:100%;"></iframe>
 
 
 
@@ -45,18 +45,18 @@ Mikroskopik görüntüleri inceleyin:
 **Extramural Venous Invasion in Adenocarcinoma**
 
 
-[https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html](https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html)
+[https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html](https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/extramuralvenousinvasion/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/extramuralvenousinvasion/HE.html" style="height:400px;width:100%;"></iframe>
 
 
-[https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html](https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html)
+[https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html](https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/extramuralvenousinvasion/HE2.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/extramuralvenousinvasion/HE2.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
